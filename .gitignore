@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+engine/.snap_lut*.npy
+review/
+out/
+audio/*.wav
+*.npy
